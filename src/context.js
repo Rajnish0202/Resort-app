@@ -1,4 +1,4 @@
-import React, { Children, Component } from 'react';
+import React, { Component } from 'react';
 // import items from './data';
 import Client from './Contentful';
 
